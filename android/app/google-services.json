@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236177362347",
+    "project_id": "mysterybox-9de5c",
+    "storage_bucket": "mysterybox-9de5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236177362347:android:ce7272dad845452ebcd6ee",
+        "android_client_info": {
+          "package_name": "com.example.mysterybox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236177362347-vblbt78d6kd1v5g8asffdbm51484hvk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysterybox",
+            "certificate_hash": "e5861261f8f5676ce845a9e9ad8caeb1732cc234"
+          }
+        },
+        {
+          "client_id": "236177362347-a86ontrhecbm6t36bi41ppo7t37fl3d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEjSDmYkrwB8f-pK3DvlP0FFJaicP-ibk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236177362347-a86ontrhecbm6t36bi41ppo7t37fl3d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
